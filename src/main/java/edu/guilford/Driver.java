@@ -7,10 +7,6 @@ import java.util.Scanner;
  */
 public class Driver 
 {
-    public Driver(String firstName, String lastName, String email, String color, String animal,
-            String number, String sport) {
-    }
-
     public static void main( String[] args )
     {
         Scanner scan = new Scanner(System.in);
